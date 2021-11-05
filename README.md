@@ -1,4 +1,8 @@
 ### Hi there 👋
+my name is Boulama, Aerospace Engineering student.  
+i own a software business in Niger, and an nlp as a service platform ([tinq.ai](https://tinq.ai)).  
+I love to code and express my creativity and solve problems using code.  
+I have a couple of gists here: [my gists](https://gist.github.com/boulama).  
 
 <!--
 **boulama/boulama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
