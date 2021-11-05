@@ -1,7 +1,11 @@
-### Hi there 👋
 <img align="right" height="300" weight="300" src="https://res.cloudinary.com/otimbilabs/image/upload/v1636096217/4f699cef54bb904be471cfcf0e5d6f38-sticker.png"/>
+
+
+
+
+### Hi there 👋
 my name is Boulama, Aerospace Engineering student. And self-taught software engineer.  
-i own a software business in Niger, and an nlp as a service platform ([tinq.ai](https://tinq.ai)).  
+i own a software business in Niger, and an nlp as a service platform [tinq.ai](https://tinq.ai).  
 I love to code and express my creativity and solve problems using code.  
 
 #### languages & tools i use on a daily basis:
@@ -12,7 +16,7 @@ I have a couple of gists here: [my gists](https://gist.github.com/boulama).
 
 #### interests:
 - machine learning (computational linguistics)
-- single-stage-to-orbit rocksts (sstos)
+- single-stage-to-orbit rockets (sstos)
 - small-lift launch vehicles
 - space debrits elimination (SpaDE)
 
