@@ -1,10 +1,13 @@
-### Hi there 👋 ![me!](https://res.cloudinary.com/otimbilabs/image/upload/c_scale,w_165/v1636096217/4f699cef54bb904be471cfcf0e5d6f38-sticker.png)
-
+### Hi there 👋
+<img align="right" height="300" weight="300" src="https://res.cloudinary.com/otimbilabs/image/upload/v1636096217/4f699cef54bb904be471cfcf0e5d6f38-sticker.png"/>
 my name is Boulama, Aerospace Engineering student. And self-taught software engineer.  
 i own a software business in Niger, and an nlp as a service platform ([tinq.ai](https://tinq.ai)).  
 I love to code and express my creativity and solve problems using code.  
-languages i use on a daily basis: `Python, JavaScript, PHP, Go, Ruby.`  
 
+#### languages & tools i use on a daily basis:
+
+<img height="25" weight="25" aly="python logo" src="https://cdn.svgporn.com/logos/python.svg"/> <img height="25" weight="25" aly="php logo" src="https://cdn.svgporn.com/logos/php.svg"/> <img height="25" weight="25" aly="go logo" src="https://cdn.svgporn.com/logos/gopher.svg"/> <img height="25" weight="25" aly="mysql logo" src="https://cdn.svgporn.com/logos/mysql.svg"/> <img height="25" weight="25" aly="sqlite logo" src="https://cdn.svgporn.com/logos/sqlite.svg"/> <img height="25" weight="25" aly="jupyter logo" src="https://cdn.svgporn.com/logos/jupyter.svg"/> <img height="25" weight="25" aly="pytorch logo" src="https://cdn.svgporn.com/logos/pytorch.svg"/>
+  
 I have a couple of gists here: [my gists](https://gist.github.com/boulama). 
 
 #### interests:
@@ -16,6 +19,10 @@ I have a couple of gists here: [my gists](https://gist.github.com/boulama).
 #### current projets:
 - [kanuri.info](https://kanuri.info/) -- i built a dictionary for my mother tongue to english and french using OCR & ML.
 - [tinq.ai](https://tinq.ai) - my first SaaS business, nlp as a service platform (currently 27 paying users).
+
+
+
+
 
 <!--
 **boulama/boulama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
