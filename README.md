@@ -2,6 +2,8 @@
 my name is Boulama, Aerospace Engineering student.  
 i own a software business in Niger, and an nlp as a service platform ([tinq.ai](https://tinq.ai)).  
 I love to code and express my creativity and solve problems using code.  
+languages i use on a daily basis: `Python, JavaScript, PHP, Go, Ruby.`  
+
 I have a couple of gists here: [my gists](https://gist.github.com/boulama).  
 
 <!--
