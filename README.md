@@ -2,14 +2,14 @@
 
 ### Hi there 👋
 my name is Boulama, Aerospace Engineering student & self-taught software engineer.  
-i own a software business in Niger, and an nlp as a service platform [tinq.ai](https://tinq.ai).  
+I own an nlp as a service platform [tinq.ai](https://tinq.ai).  
 I love to code and express my creativity and solve problems using code.  
 
 #### languages & tools i use on a daily basis:
 
 <img height="25" weight="25" aly="python logo" src="https://cdn.svgporn.com/logos/python.svg"/> <img height="25" weight="25" aly="php logo" src="https://cdn.svgporn.com/logos/php.svg"/> <img height="25" weight="25" aly="go logo" src="https://cdn.svgporn.com/logos/gopher.svg"/> <img height="25" weight="25" aly="mysql logo" src="https://cdn.svgporn.com/logos/mysql.svg"/> <img height="25" weight="25" aly="sqlite logo" src="https://cdn.svgporn.com/logos/sqlite.svg"/> <img height="25" weight="25" aly="jupyter logo" src="https://cdn.svgporn.com/logos/jupyter.svg"/> <img height="25" weight="25" aly="pytorch logo" src="https://cdn.svgporn.com/logos/pytorch.svg"/>
   
-I have a couple of gists here: [my gists](https://gist.github.com/boulama). 
+I have a couple of gists here: [my gists](https://gist.github.com/boulama). These are mostly codes that I write to solve some (silly-ish) problems I might encounter every now and then.
 
 #### interests:
 - machine learning (computational linguistics)
